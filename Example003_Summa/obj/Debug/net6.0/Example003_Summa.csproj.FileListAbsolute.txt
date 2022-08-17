@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Example003_Summa\bin\Debug\net6.0\Example003_Summa.exe
+D:\GeekBrains\C#\Example003_Summa\bin\Debug\net6.0\Example003_Summa.deps.json
+D:\GeekBrains\C#\Example003_Summa\bin\Debug\net6.0\Example003_Summa.runtimeconfig.json
+D:\GeekBrains\C#\Example003_Summa\bin\Debug\net6.0\Example003_Summa.dll
+D:\GeekBrains\C#\Example003_Summa\bin\Debug\net6.0\Example003_Summa.pdb
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.AssemblyInfo.cs
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.dll
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\refint\Example003_Summa.dll
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.pdb
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\Example003_Summa.genruntimeconfig.cache
+D:\GeekBrains\C#\Example003_Summa\obj\Debug\net6.0\ref\Example003_Summa.dll
